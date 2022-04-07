@@ -58,7 +58,7 @@ h1{
     background-image: url("../img/rainbow.png");
 }
 /* Fonds de la base*/
-.fenosoa{
+.Div1{
     width:900px;
     background-color: white;
     padding: 15px 25px 20px 50px;
@@ -67,7 +67,7 @@ h1{
 }
 /*Style de l'image */
 /*Style de l'image quand la souri passe dessus*/
-.contenair{
+.Div2{
     display: inline-flex;
     text-align: center;
 }
@@ -104,12 +104,12 @@ figcaption{
 img:hover {
     transform: scale(1.2);
 }
-.rehetra{
+.Div3{
     display: inline-flex;
     width: 100%;
 }
 /*Formulaire*/
-.information{
+.Div4{
     padding: 0px 0px 0px 10px;
     width: 35%;
     display: inline-block;
@@ -117,7 +117,7 @@ img:hover {
 /*Style du boutton valider*/
 .button{
     margin: 5px 0px 0px 0px;
-    padding: 5px;
+    padding: 5px; 
     border-radius: 5px;
     background-color: #C55394;
     color: white;
