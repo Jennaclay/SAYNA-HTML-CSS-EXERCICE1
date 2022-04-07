@@ -1,27 +1,32 @@
 /* Style de l'en tete de page*/
 /*fond du header*/
-ul {
+ul 
+    {
     background-color: #C55394;
     overflow: hidden;
-}
+    }
 /*positiion des listes*/
-li{
+li
+    {
     float: left;
-}
+    }
 /*Style des liens sur le header*/
-li a{
+li a
+    {
     display: block;
     color: white;
     text-align: center;
     padding: 15px 15px;
     margin: 0px 2px;
     text-decoration: none;
-}
+    }
 /*couleur des liens*/
-.zanne:hover:not(.active){
+.zanne:hover:not(.active)
+    {
     background-color: #EB43A3;
-}
-.active{
+    }
+.active
+    {
     background-color: #EB43A3;
 }
 /*Propriete des barre de navigation du page*/
